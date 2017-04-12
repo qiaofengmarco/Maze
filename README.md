@@ -1,2 +1,2 @@
 # Maze
-Maze Creator
+Maze Creator Using Disjoint Set
